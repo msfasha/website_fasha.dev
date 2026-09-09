@@ -1,0 +1,17 @@
+services:
+  fasha-dev:
+    build: .
+    image: fasha-dev:latest
+    expose:
+      - "80"
+    restart: always
+    container_name: fasha-dev-website
+    networks:
+      default:
+        aliases:
+          - fasha-dev-nginx
+
+networks:
+  default:
+    external: true
+    name: rproxy_nginx_gh_app-network
