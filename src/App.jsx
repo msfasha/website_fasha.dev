@@ -108,9 +108,10 @@ function App() {
             <div className="hero-socials">
               <a href="https://www.linkedin.com/in/fasha" target="_blank" rel="noopener noreferrer" className="social-btn">LinkedIn</a>
               <a href="https://github.com/msfasha" target="_blank" rel="noopener noreferrer" className="social-btn">GitHub</a>
-              <a href="https://bayanat.dev" target="_blank" rel="noopener noreferrer" className="social-btn">Bayanat</a>
+              <a href="https://x.com/MohammadFasha" target="_blank" rel="noopener noreferrer" className="social-btn">X</a>
               <a href="https://scholar.google.com/citations?user=Am1pBAQAAAAJ&hl=en" target="_blank" rel="noopener noreferrer" className="social-btn">Google Scholar</a>
               <a href="https://fafs.uop.edu.jo/En/Pages/AcademicStaffInfo.aspx?uid=6D006F00680061006D006D00650064002E0066006100730068006100400075006F0070002E006500640075002E006A006F00" target="_blank" rel="noopener noreferrer" className="social-btn">University</a>
+              <a href="https://bayanat.dev" target="_blank" rel="noopener noreferrer" className="social-btn">Bayanat</a>
               <a href="https://raseenlabs.com" target="_blank" rel="noopener noreferrer" className="social-btn">Raseen Labs</a>
             </div>
           </div>
